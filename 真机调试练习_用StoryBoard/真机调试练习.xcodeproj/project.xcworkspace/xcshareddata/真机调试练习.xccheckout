@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>52F3928A-CC8E-4409-B38A-18DC5F3A6BE8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>真机调试练习</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>A38A3B264D720707527F03DE2F6ED18C98A099DF</key>
+		<string>https://github.com/yangdongming1988/YDM_IOSTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>真机调试练习_用StoryBoard/真机调试练习.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>A38A3B264D720707527F03DE2F6ED18C98A099DF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yangdongming1988/YDM_IOSTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>A38A3B264D720707527F03DE2F6ED18C98A099DF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A38A3B264D720707527F03DE2F6ED18C98A099DF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>YDM_IOSTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>

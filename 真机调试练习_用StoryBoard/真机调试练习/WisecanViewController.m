@@ -633,15 +633,6 @@ NSInteger getMaxofThree(NSInteger num1, NSInteger num2, NSInteger num3){
      [dict setObject:@"object Three" forKey:@"photo3"];
      [dict setObject:@"object Four" forKey:@"photo4"];
     NSLog(@"%@",dict);
-    
-#pragma 新增加的-测试打印-开始
-    //字典转为json字符串
-    if (dict) {
-        NSData *jsonData = [NSJSONSerialization dataWithJSONObject:dict options:NSJSONWritingPrettyPrinted error:nil];
-        NSString *serializInfo =[[NSString alloc] initWithData:jsonData encoding:NSUTF8StringEncoding];
-        NSLog(@"json:%@",serializInfo);
-    }
-#pragma 新增加的-测试打印-结束
 #endif 
     
     NSLog(@"当前时间为：%@",[self dateGeneralStrFromDate:[NSDate date]]);
