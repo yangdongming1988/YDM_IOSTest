@@ -9,5 +9,5 @@
 #import <Foundation/Foundation.h>
 
 @interface WisecanNew : NSObject
-@property (nonatomic, strong) NSString* name;
+@property (nonatomic, strong) NSString* name; //名字
 @end
